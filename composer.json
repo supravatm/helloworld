@@ -9,7 +9,7 @@
             "email": "supravat.com@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
 	"php": ">=5.3.9"
     },
