@@ -1,6 +1,9 @@
 {
     "name": "supravatweb/hello-world",
     "description": "My first Composer project",
+    "license":     "MIT",
+    "version":     "1.0.0",
+    "keywords":    ["helloworld", "sample", "test"],
     "authors": [
         {
             "name": "supravatweb",
